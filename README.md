@@ -1,6 +1,7 @@
 ### Will St. Onge
 
 LinkedIn: https://www.linkedin.com/in/will-st-onge/
+
 Trailhead: https://trailblazer.me/id/will-st-onge
 
 I am a Senior at Northern Kentucky University graduating Decemeber 2021 with a B.S. in Computer Science. Lots of the assignments from classes I have taken there are available in my repos.
