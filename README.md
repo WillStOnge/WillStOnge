@@ -1,6 +1,6 @@
 ### Will St. Onge
 
-Software Developer @ [Western & Southern Financial Group](https://www.westernsouthern.com/)
+Full-Stack Software Developer
 
 LinkedIn: https://www.linkedin.com/in/will-st-onge
 
